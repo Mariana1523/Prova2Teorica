@@ -31,7 +31,7 @@ public class Alunos extends Pessoa{
         System.out.println("Adiantar a matéria atrasada e beber cerveja");
     }
     /*Neste método praticasNoFreeTime é utilizado o polimorfismo, pois uma mesma assinatura
-    foi utilizada diferentes maneiras, ou seja, obedece o conceito do polimorfismo
+    foi utilizada diferentes maneiras(nesta classe e na Professores), ou seja, obedece o conceito do polimorfismo
     que é basicamente "Um mesmo nome com vários comportamentos"*/
     
     public String getMatricula() {
